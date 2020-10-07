@@ -29,14 +29,13 @@ Repository for 2020 Earth Science Citation Replication Project
 	1. dois_oa.csv
 
 ## Appendices related to article
-Appendix 1: Citation Search & Download Protocol
-Appendix 2: Open Access Representation
-Appendix 3: Data Cleaning and Exploration
-	1. citedRefsMeta_noDOI (File with 11280 citations that had no DOI)
-	2. nodoi.csv - List of the titles without dois sorted by frequency to help aid in data clean up priorities. 
-		Used in data_cleaning.ipynb to analyze titles from citedRefsMeta_noDOI after CR column was split by comma.
-	3. citedRefsMeta_2.csv - citedRefsMeta_noDOI was edited and more complete records were added back into this file.
-	4. data_cleaning.ipynb - Describes the process of exploring the 11,800 messy records, cleaning and recombining; compares 80/20 results for clean and messy data.
+### Appendix 1: Citation Search & Download Protocol
+### Appendix 2: Open Access Representation
+### Appendix 3: Data Cleaning and Exploration
+	1. citedRefsMeta_noDOI (File with 11280 citations that had no DOI) 
+	2. nodoi.csv - List of the titles without dois sorted by frequency to help aid in data clean up priorities. Used in data_cleaning.ipynb to analyze titles from citedRefsMeta_noDOI after CR column was split by comma.  
+	3. citedRefsMeta_2.csv - citedRefsMeta_noDOI was edited and more complete records were added back into this file.  
+	4. data_cleaning.ipynb - Describes the process of exploring the 11,800 messy records, cleaning and recombining; compares 80/20 results for clean and messy data.  
 
 ## Figures
 	1. Figure 1: (in paper)
