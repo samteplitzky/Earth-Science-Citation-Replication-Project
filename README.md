@@ -30,7 +30,9 @@ Repository for 2020 Earth Science Citation Replication Project
 
 ## Appendices related to article
 ### Appendix 1: Citation Search & Download Protocol
+  1. Appendix_1_WOS_Search_Download_Protocol.pdf
 ### Appendix 2: Open Access Representation
+  1. Appendix_2_Open_Access_Representation.csv
 ### Appendix 3: Data Cleaning and Exploration
 	1. citedRefsMeta_noDOI (File with 11280 citations that had no DOI) 
 	2. nodoi.csv - List of the titles without dois sorted by frequency to help aid in data clean up priorities. Used in data_cleaning.ipynb to analyze titles from citedRefsMeta_noDOI after CR column was split by comma.  
