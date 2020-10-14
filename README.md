@@ -3,11 +3,12 @@
 Repository for 2020 Earth Science Citation Replication Project
 
 ## Jupyter Notebooks:
-	1. Citation_Project_Sample.ipynb - Process for creating sample
-	2. Citation Data Clean and API.ipynb - Creating Dataframe and making API call
-	3. Citation_Data_Analysis_All.ipynb - This file combines the top two notebooks for a streamlined replicable process, 
-		from sample creation, API call, to plotting the rule.
-	4. open_access_analysis.ipynb - Identifies and graphs OA articles based on WoS assignment
+	1. Citation_Project_Sample.ipynb - Process for creating sample.
+	2. Citation Data Clean and API.ipynb - Process for creating Dataframe and making API call.
+	3. Citation_Data_Analysis_All.ipynb - Combines the top two notebooks for a streamlined replicable process, 
+		from sample creation, API call, to plotting the 80/20 rule for a single institution.
+	4. Citation_Data_Analysis_All_Institutions.ipynb - Process from #3 for multiple institutions for comparative analysis.
+	5. open_access_analysis.ipynb - Identifies and graphs OA articles based on WoS assignment
 
 ## Files:
 ### Institution_Reference_Files	
@@ -27,6 +28,7 @@ Repository for 2020 Earth Science Citation Replication Project
 		File created after CrossRef API call - all cited references with clean title data where DOIs were present.
 ### Open Access Analysis
 	1. dois_oa.csv
+	2. open_access_analysis.ipynb - Identifies and graphs OA articles based on WoS assignment
 
 ## Appendices related to article
 ### Appendix 1: Citation Search & Download Protocol
