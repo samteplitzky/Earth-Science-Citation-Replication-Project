@@ -2,6 +2,10 @@
 
 Repository for 2020 Earth Science Citation Replication Project
 
+**Citation**:
+
+> _Teplitzky S, Tranfield W, Warren M, White P. Introducing Reproducibility to Citation Analysis: a Case Study in the Earth Sciences. Journal of eScience Librarianship 2021;10(2): e1194. https://doi.org/10.7191/jeslib.2021.1194. Retrieved from https://escholarship.umassmed.edu/jeslib/vol10/iss2/6_
+
 ## Jupyter Notebooks:
 	1. Citation_Project_Sample.ipynb - Process for creating sample.
 	2. Citation Data Clean and API.ipynb - Process for creating Dataframe and making API call.
